@@ -1,0 +1,19 @@
+{
+  "name": "teste-2",
+  "version": "1.0.0",
+  "description": "Commcepta Design - Front-End Developer Test ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gferreiraa/commceptaDesign.git"
+  },
+  "author": "Getulio Rafael Ferreira <gferreiraa@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gferreiraa/commceptaDesign/issues"
+  },
+  "homepage": "https://github.com/gferreiraa/commceptaDesign#readme"
+}
